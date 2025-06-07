@@ -9,7 +9,8 @@ My finance app is aimed at people who wants an overview of what they are spendin
 - Breakdown Feature - full breakdown of each category
 
 ## Technologies to be used:
-HTML - Front page and structure
-CSS - Styling 
-JavaScript - For functionality
-Figma - For wireframe and layouts
+- HTML - Front page and structure
+- CSS - Styling 
+- JavaScript - For functionality
+- Figma - For wireframe and layouts
+ 
