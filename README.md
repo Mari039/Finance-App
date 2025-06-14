@@ -14,3 +14,4 @@ My finance app is aimed at people who wants an overview of what they are spendin
 - JavaScript - For functionality
 - Figma - For wireframe and layouts
  
+ 
